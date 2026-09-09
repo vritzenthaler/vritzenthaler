@@ -1,16 +1,22 @@
-## Hi there 👋
+# Valentin Ritzenthaler
 
-<!--
-**vritzenthaler/vritzenthaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI / Machine Learning Engineer with a PhD in Applied Mathematics.
 
-Here are some ideas to get you started:
+I'm interested in building AI systems that are not only capable,
+but measurable, reliable and useful in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Agent Reliability Lab**:
+an experimental framework for understanding when AI agents can be
+trusted to act autonomously.
+
+### Current interests
+
+- LLM agents & tool use
+- GenAI evaluation and reliability
+- Machine learning
+- Scientific computing
+- Production-quality Python
+
+### Selected work
+
+Agent Reliability Lab - evaluating and improving AI agent reliability
